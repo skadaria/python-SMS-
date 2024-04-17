@@ -1,0 +1,8 @@
+1,manish,manish,admin
+2,soni,soni1,student
+3,heroo,hero1,student
+4,SRIJAL KADARIYTA,SRIJAL,student
+5,nirman,12345,student
+6,srijal,srijal1,admin
+7,shivraj],shivraj,admin
+9,shivraj,123,student

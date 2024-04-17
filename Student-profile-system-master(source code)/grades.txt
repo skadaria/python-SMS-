@@ -1,0 +1,3 @@
+2,Maths:98.0,Physics:99.0,English:80.0,Nepali:76.0,Computer:98.0,Science:100.0
+4,Maths:67.0,Physics:87.0,English:65.0,Nepali:78.0,Computer:65.0,Science:55.0
+8,Maths:89.0,Physics:98.0,English:78.0,Nepali:67.0,Computer:76.0,Science:56.0
